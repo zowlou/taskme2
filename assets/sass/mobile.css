@@ -1,0 +1,25 @@
+@media (max-width: 100px) {
+    .sidebar {
+    display: none;
+    }
+    .masthead .logo{
+        height:65vw;
+    }
+
+    .pepe{
+        color:white;
+        text-shadow:0 0 1px black;
+        font-size:20px;
+        font-weight:800 !important;
+        font-size:2.6em !important;
+    }
+
+    .pepe-light{
+        color:white;
+        text-align:justify;
+    }
+}
+
+/* logo sur header
+footer adapté */
+
